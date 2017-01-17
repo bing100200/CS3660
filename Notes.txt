@@ -1,0 +1,15 @@
+**Rules**
+
+1. Rule of Thirds
+	(Composition)
+2. Avoid High Frequency Tiling
+3. Avoid Sharpe Edges
+
+**Add Material For Landscape**
+1. add material and edit it
+2. add below nodes:
+Texture Sample
+LandscapeCoords
+LandscapeLayerBlend
+	(In LandscapeLayerBlend, Change Preview Weight to 1)
+3. in Place (shift+1), ensure Landscape is selected then drag the material to Landscape Material
