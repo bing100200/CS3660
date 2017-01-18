@@ -12,4 +12,4 @@ LandscapeCoords
 LandscapeLayerBlend
 	(In LandscapeLayerBlend, Change Preview Weight to 1)
 3. in Place (shift+1), ensure Landscape is selected then drag the material to Landscape Material
-4. in Landscape, 
+4. in Landscape, select Paint
